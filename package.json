@@ -1,0 +1,30 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "SASS exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/set2k6/Sassy-Basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/set2k6/Sassy-Basics/issues"
+  },
+  "homepage": "https://github.com/set2k6/Sassy-Basics#readme",
+  "dependencies": {
+    "node-sass": "^3.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-sass-lint": "^1.1.1",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "clear",
+  "description": "SASS exercise",
+  "main": "index.js",
+  "authors": [
+    "set2k6 <set2k6@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/set2k6/Sassy-Basics",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
